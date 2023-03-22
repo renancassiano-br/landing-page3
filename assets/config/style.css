@@ -10,12 +10,18 @@ body {
   color: #EBF1FB;
   text-align: center;
   padding-top: 275px;
+  background-image: url(../img/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  font-family: 'Spectral', serif;
 }
 
 h1 {
   font-weight: 400;
   font-size: 64px;
   line-height: 120px;
+  font-family: 'Beth Ellen', cursive;
 }
 
 p {
